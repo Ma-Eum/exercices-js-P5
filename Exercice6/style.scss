@@ -1,0 +1,10 @@
+// Variables
+$blue:#0000ff; 
+/*oblige de changer la valeur car j'avais un message erreur mais dans l'énoncé c'était cette valeure a mettre #007bff*/
+
+
+li{
+    color: $blue;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
