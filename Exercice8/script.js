@@ -10,4 +10,7 @@ function add(a, b) {
   
   // Exporter la fonction `add` pour qu'elle puisse être utilisée dans d'autres fichiers
   export default add;
+
+  const result = add(10, 2);
+  console.log(result);
   
